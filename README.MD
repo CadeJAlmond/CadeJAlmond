@@ -44,4 +44,4 @@
 - Web Design
 
 ## Lets get to know each other !
- [![Linkedin Badge](https://img.shields.io/badge/-CadeJAlmond-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/CadeJAlmond/) [![Mail Badge](https://img.shields.io/badge/-CadejAlmond-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](CadeJAlmond@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-CadeJAlmond-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cade-almond/) [![Mail Badge](https://img.shields.io/badge/-CadejAlmond@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)]()
