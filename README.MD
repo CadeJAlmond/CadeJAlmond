@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi Im Cade Almond!️&animation=fadeIn&type=waving&color=gradient&height=300"/>
+</p>
+
 # About me
 ### I am a full-stack software engineer ! 
 ## My Education :
