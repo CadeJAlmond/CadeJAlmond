@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20Im%20Cade%20Almond&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20Im%20Cade%20Almond️&animation=fadeIn&type=waving&color=gradient&height=30" />
 </p>
 
 # About me
