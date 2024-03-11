@@ -8,6 +8,9 @@
 - University of Utah - <b>Software development</b> (2020 - 2024) GPA : 3.6+
 - Salt Lake Community College - <b>Associates of Science in general studies</b> (2018 - 2020) GPA : 3.8+
 
+# Objective
+Seeking a career as a Software Engineer where I can design and develope ergonomic programs, captivating front-end interfaces and powerful backend services.
+
 ## I love developing full-stack web applications using : 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
