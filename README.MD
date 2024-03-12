@@ -11,6 +11,9 @@
 ## Objective
 Seeking a career as a Software Engineer where I can design and develope ergonomic programs, captivating front-end interfaces and powerful backend services.
 
+## Checkout my website !
+[https://cadejalmond.github.io/](https://cadejalmond.github.io/)
+
 ## I love developing full-stack web applications using : 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
