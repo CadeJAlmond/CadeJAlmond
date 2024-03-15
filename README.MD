@@ -14,6 +14,9 @@ Seeking a career as a Software Engineer where I can design and develope ergonomi
 ## Checkout my website !
 [https://cadejalmond.github.io/](https://cadejalmond.github.io/)
 
+## Checkout my resume !
+[Resume Link](https://flowcv.com/resume/rbh3ftjh8l)
+
 ## I love developing full-stack web applications using : 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
