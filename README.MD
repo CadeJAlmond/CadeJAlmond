@@ -10,8 +10,8 @@
   - <b>Engineered and maintained a 10</b> top priority project for Fidelity Investments, Enterprise Click To Agree A DocuSign replacement.
   - Part of an advanced engineering unit to quickly develop and maintain high performance and mission critical software.
   - Worked on highly scalable, dockerized, resilient, spring boot applications which coordinates with Apache Kafka.
-  - Directly authored important endpoints, busniess logic, inter-application communication, error validation, production support and documentation. 
-  - Constructed the Angular web-application which allows users to initiate elecontric click-to-agree processes through our API.
+  - Directly authored important endpoints, business logic, inter-application communication, error validation, production support and documentation. 
+  - Constructed the Angular web-application which allows users to initiate electronic click-to-agree processes through our API.
   - Used AI to help boost program performance, add unit test coverage and improve documentation.
 
 ## My Education :
@@ -19,7 +19,7 @@
 - Salt Lake Community College - <b>Associates of Science in general studies</b> (2018 - 2020) GPA : 3.8+
 
 ## Objective
-Build powerfull and creative software, algorithms and website solutions. I love building software for finance, crypto and investing.  
+Build powerful and creative software, algorithms and website solutions. I love building software for finance, crypto and investing.  
 
 ## Checkout my website !
 
@@ -65,7 +65,7 @@ Build powerfull and creative software, algorithms and website solutions. I love 
 
 - <b>[Global Terrorism in the 21st Century](https://github.com/CadeJAlmond/Final-Project-CS-5630)</b> 
   * This website displays several visualizations of terrorism globally. 
-  * Interacable graphs to display statistical analysis of data from different regions of the world.
+  * Interactive graphs to display statistical analysis of data from different regions of the world.
 
 
 ## Some of my skills !
