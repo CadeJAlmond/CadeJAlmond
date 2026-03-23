@@ -27,7 +27,7 @@ Build powerful and creative software, algorithms and website solutions. I love b
 <img src="https://github.com/CadeJAlmond/CadeJAlmond.github.io/blob/main/CadeJAlmondWebsitePic.JPG?raw=true" height="350">
 
 ## Checkout my resume !
-[Resume Link](https://flowcv.com/resume/rbh3ftjh8l)
+[Resume Link](https://flowcv.com/resume/57lrltoo1kf4)
 
 ## I love developing full-stack web applications using : 
 
