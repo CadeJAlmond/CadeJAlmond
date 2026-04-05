@@ -7,16 +7,20 @@
 
 ## Experience
 - Fidelity investments  
-  - <b>Engineered and maintained a 10</b> top priority project for Fidelity Investments, Enterprise Click To Agree A DocuSign replacement.
+  - <b>Built and maintained a 10 top priority initiative for Fidelity Investments</b>, Enterprise Click To Agree (ECTA) A DocuSign replacement, both Springboot backend and Angular frontend.
+  - <b>Second highest contributor to our ECTA angular application.</b>
+  - Engineered an Angular-based web application that enables users to initiate electronic click-to-agree workflows via our enterprise APIs. 
+  - Authored critical RESTful endpoints, core business logic, and error validation mechanisms, while providing comprehensive production support.
   - Part of an advanced engineering unit to quickly develop and maintain high performance and mission critical software.
-  - Worked on highly scalable, dockerized, resilient, spring boot applications which coordinates with Apache Kafka.
-  - Directly authored important endpoints, business logic, inter-application communication, error validation, production support and documentation. 
-  - Constructed the Angular web-application which allows users to initiate electronic click-to-agree processes through our API.
-  - Used AI to help boost program performance, add unit test coverage and improve documentation.
+  - Used AI to help boost program performance, add unit test coverage and improve swagger documentation.
+
 
 ## My Education :
-- University of Utah - <b>Software development</b> (2020 - 2024) GPA : 3.6+
-- Salt Lake Community College - <b>Associates of Science in general studies</b> (2018 - 2020) GPA : 3.8+
+University of Utah
+Bachelor of Science in Software Development | GPA: 3.6+ | 2020 – 2024
+
+Salt Lake Community College
+Associate of Science in General Studies | GPA: 3.8+ | 2018 – 2020
 
 ## Objective
 Build powerful and creative software, algorithms and website solutions. I love building software for finance, crypto and investing.  
